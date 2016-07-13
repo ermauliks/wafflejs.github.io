@@ -308,6 +308,19 @@
     - 8:45 PM: Speaker TBA
 
     - 9:00 PM: Speaker TBA
+        type: Talk
+        emoji: 🖥
+        title: Yelpicons - An icon system
+        description: |
+          Designers and engineers worked together closely on a tool 
+          for maintaining the icons and making it easy for developers 
+          on any platform to use the icons in their apps. 
+          Hear about our iterative approach to rolling out the "Yelpicon" system 
+          and how we're looking beyond icons to continue to tighten the gap between 
+          design and production code.
+        person:
+          name: Maulik Suchak
+          twitter: ermauliks      
 
     - 9:15 PM:
         <<: *butter_beverajs
